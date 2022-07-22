@@ -1,0 +1,20 @@
+alex,student,rutgers
+james,student scholar,rutgers
+asher,student,rutgers
+albus,student,rutgers
+robert,faculty,rutgers
+aerys,student,rutgers
+antman,faculty,rutgers
+anthony,student,rutgers
+harper,student scholar,rutgers
+percy,student,rutgers
+hunter,student,rutgers
+winston,faculty,rutgers
+drogo,janitor,rutgers
+loki,faculty,rutgers
+aaron,hod,rutgers
+avery,student scholar,rutgers
+ed,student scholar,rutgers
+don,student,rutgers
+jackson,student,rutgers
+austin,faculty,rutgers
